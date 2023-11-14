@@ -5,10 +5,10 @@ pagina hecha en markdown
 
 -codigo en java
 
-'''java
+´´´java
   public void main(){
   System.out.println("  ")
   
   }
 
-  '''java
+  ```java
